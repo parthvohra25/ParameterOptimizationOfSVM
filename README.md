@@ -12,7 +12,9 @@ In this python file, I've used a Fitness Function to optimize the parameters.
 
 
 ### Attribute Information:
-Input variables (based on physicochemical tests): 
+Total Rows: 110205
+Total attributes: 4
+Input variables: 
 
 1 - age_years
 
@@ -20,7 +22,7 @@ Input variables (based on physicochemical tests):
 
 3 - episode_number
 
-Output variable (based on sensory data): 
+Output variable: 
 
 4 - hospital_outcome_1alive_0dead
 
