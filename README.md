@@ -10,8 +10,20 @@ In this python file, I've used a Fitness Function to optimize the parameters.
 
 ## Dataset Description
 
+Primary cohort from Norway:
+4 features for 110,204 patient admissions
+file: 's41598-020-73558-3_sepsis_survival_primary_cohort.csv'
+
+Study cohort (subset of the primary cohort) from Norway:
+4 features for 19,051 patient admissions
+file: 's41598-020-73558-3_sepsis_survival_study_cohort.csv'
+
+Validation cohort from South Korea:
+4 features for 137 patients
+file: 's41598-020-73558-3_sepsis_survival_validation_cohort.csv'
 
 ### Attribute Information:
+
 Total Rows: 110205
 Total attributes: 4
 Input variables: 
