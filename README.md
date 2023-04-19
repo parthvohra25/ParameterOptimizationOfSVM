@@ -36,5 +36,5 @@ In this python file, I've used a Fitness Function to optimize the parameters.
 
 ## Written By:
 Name  : Parth Vohra
-Roll no: 102196004
+Roll no: 102016044
 Batch: 3CS10
