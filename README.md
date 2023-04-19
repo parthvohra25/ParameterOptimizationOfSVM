@@ -33,10 +33,12 @@ In this python file, I've used a Fitness Function to optimize the parameters.
 
 
 # Convergence Graph 
+![image](https://user-images.githubusercontent.com/72933441/233191949-c603bc36-3bd8-4ff7-913e-0ec3ba41e7d0.png)
 
-## written by:
-name-Parth Vohra
 
-roll no-102016044
+## Written By:
+Name: Parth Vohra
 
-sub group-3CS10
+Roll No: 102016044
+
+Batch: 3CS10
