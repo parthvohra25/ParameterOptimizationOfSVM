@@ -12,7 +12,17 @@ In this python file, I've used a Fitness Function to optimize the parameters.
 
 
 ### Attribute Information:
+Input variables (based on physicochemical tests): 
 
+1 - age_years
+
+2 - sex_0male_1female 
+
+3 - episode_number
+
+Output variable (based on sensory data): 
+
+4 - hospital_outcome_1alive_0dead
 
 ### Source
  UCI Machine Learning Repository:https://archive.ics.uci.edu/ml/machine-learning-databases/00628/
