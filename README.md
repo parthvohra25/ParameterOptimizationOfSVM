@@ -35,6 +35,6 @@ In this python file, I've used a Fitness Function to optimize the parameters.
 # Convergence Graph 
 
 ## Written By:
-Name  : Parth Vohra
-Roll no: 102016044
-Batch: 3CS10
+#) Name  : Parth Vohra
+#) Roll no: 102016044
+#) Batch: 3CS10
