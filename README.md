@@ -64,7 +64,7 @@ Output variable:
 # Convergence Graph 
 ![image](https://user-images.githubusercontent.com/72933441/233191949-c603bc36-3bd8-4ff7-913e-0ec3ba41e7d0.png)
 
-
+In the above graph Cross validation score is overlapping the training score.
 ## Written By:
 Name: Parth Vohra
 
