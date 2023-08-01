@@ -6,7 +6,7 @@ Some of the most important parameters of SVM such as kernel, C, and gamma can be
 
 We can perform this task using GridSearchCV for optimizing these parameters.
 
-# Why we do paramterer optimization of SVM?
+## Why we do paramterer optimization of SVM?
 The performance of an SVM model depends heavily on its parameter settings, such as the kernel type, the penalty parameter C, and the kernel coefficient gamma. Therefore, optimizing these parameters is critical for achieving better accuracy and generalization.16-Apr-2023
 
 In this python file, I've used a Fitness Function to optimize the parameters.
